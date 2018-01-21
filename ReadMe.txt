@@ -1,0 +1,1 @@
+This Project offers a specific solution to solve the Emotion detection problem in Chinese Daily Dialog(Wechat). We finally get to the extent of 70% accuracy as the final result.
